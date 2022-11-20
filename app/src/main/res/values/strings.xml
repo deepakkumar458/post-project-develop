@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Post App</string>
+    <string name="cannot_connect_to_internet">Could not connect to the internet</string>
+    <string name="something_went_wrong">OOPS!! Something went wrong..</string>
+    <string name="loading">Loading Posts...</string>
+    <string name="my_post_heading">My Posts</string>
+    <string name="post_details">Post Details</string>
+
+</resources>
